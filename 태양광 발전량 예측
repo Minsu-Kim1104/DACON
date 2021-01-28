@@ -1,0 +1,7 @@
+대회 기간 : 2020. 12. 19 ~ 2021 . 01. 26
+
+평가식 : pinball loss
+
+최종 점수 : 2.07(상위 13%)
+
+모델 : LGBM, Neural Network(Keras)
